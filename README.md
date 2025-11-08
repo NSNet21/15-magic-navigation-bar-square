@@ -9,7 +9,7 @@ Built with **HTML**, **CSS**, and **Vanilla JavaScript**, featuring a smooth tra
 
 ## 🖼️ Preview
 
-![Magic Navigation Bar Preview](assets-preview/preview.jpg)
+![Magic Navigation Bar Preview](assets-preview/preview.jpeg)
 
 ---
 
